@@ -1,6 +1,4 @@
 
-// src/helpers/lifecycle.js
-
 import React from 'react'
 
 export default function(Component) {
